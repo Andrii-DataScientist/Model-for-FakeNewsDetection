@@ -1,0 +1,2 @@
+## Part of our accomplished work, while project is in process i can't reveal all information to public, plus Twitter keys for working with Twitter API is secret information and can't be published
+**By the way the repository will be finished later in May or maybe in December 2021 it depends when the project will be officially finished in university, the whole code with code of other developers is at another repository, where we as DataScientists(I and Max) are working with other developers)**
